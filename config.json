@@ -1,0 +1,10 @@
+{
+	"port": 8000,
+	"pages": [
+		{
+			"page": "post",
+			"url": "test",
+			"json": {}
+		}
+	]
+}

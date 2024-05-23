@@ -3,7 +3,7 @@
 	"description": "Description which will fit on all pages",
 	"keywords": "waw, web art work, server render, template",
 	"prefix": "/profile",
-	"favicon": "/profile/img/favicon.ico",
+	"favicon": "img/favicon.ico",
 	"image": "https://webartwork.github.io/profile/img/avatar.png",
 	"author": "Honchar Denys",
 	"scss": "scss/index.scss",
